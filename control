@@ -1,0 +1,9 @@
+Package: ipwl.tweak.notiften
+Name: Notif10
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: i_pwl
+Author: i_pwl
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
